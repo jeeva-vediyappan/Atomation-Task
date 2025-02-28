@@ -21,7 +21,7 @@ The **SRM LMS Automation Tool** is designed to streamline and enhance the user e
 
 ## Installation
 - Install Dependencies
-  ```shell
+    ```shell
     pip install requests
 - Install Dependencies
     ```shell
